@@ -1,28 +1,27 @@
 body {
-    text-align: center;
+    text-align: left;
 }
 
 h1 {
     font-size: 3em;
     font-weight: bold;
-    color: darkslategrey;
+    color: deeppink;
 }
 
 h2 {
     font-size: 2em;
-    color: darkslategrey;
+    color: lightcoral;
 }
 
 h3 {
     font-size: 1.5em;
-    color: darkslategrey;
+    color: lightcoral;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 p {
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-right: 70%;
 }
 
 ul {
@@ -31,15 +30,19 @@ ul {
 }
 
 li {
+    font-size: 1.5em;
     display: inline;
-    padding: 10px 10px;
 }
 
 a {
     text-decoration: none;
-    color: darkslateblue;
+    font-weight: bold;
+    color: black;
+    background-color: pink;
+    padding: 10px 10px;
 }
 
 a:hover {
-    font-weight: bold;
+    color: deeppink;
+    background-color: black;
 }

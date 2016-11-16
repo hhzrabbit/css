@@ -1,27 +1,28 @@
 body {
-    text-align: left;
+    text-align: center;
 }
 
 h1 {
     font-size: 3em;
     font-weight: bold;
-    color: deeppink;
+    color: darkslategrey;
 }
 
 h2 {
     font-size: 2em;
-    color: lightcoral;
+    color: darkslategrey;
 }
 
 h3 {
     font-size: 1.5em;
-    color: lightcoral;
+    color: darkslategrey;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 p {
-    margin-right: 80%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 ul {
@@ -36,10 +37,9 @@ li {
 
 a {
     text-decoration: none;
-    font-weight: bold;
-    color: black;
+    color: darkslateblue;
 }
 
 a:hover {
-    color: 
+    font-weight:bold;
 }
