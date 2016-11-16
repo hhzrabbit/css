@@ -1,0 +1,45 @@
+body {
+    text-align: left;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: deeppink;
+}
+
+h2 {
+    font-size: 2em;
+    color: lightcoral;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: lightcoral;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin-right: 80%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    padding: 10px 10px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+a:hover {
+    color: 
+}
