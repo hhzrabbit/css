@@ -1,28 +1,44 @@
+/* https://coolors.co/4c061d-d17a22-b4c292-736f4e-3b3923 */
+.extreme {
+    color: #3B3923;
+}
+
+.navzone {
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: #D17A22;
+}
+
+.content {
+    color: #4C061D;
+}
+
+.prose {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+
+#head1 {
+    font-size: 40px;
+}
+
 body {
+    background-color: #B4C292;
     text-align: center;
 }
 
 h1 {
     font-size: 3em;
     font-weight: bold;
-    color: darkslategrey;
-}
-
-h2 {
-    font-size: 2em;
-    color: darkslategrey;
-}
-
-h3 {
-    font-size: 1.5em;
-    color: darkslategrey;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-p {
-    margin-left: 25%;
-    margin-right: 25%;
+h2 {
+    font-size: 2em;
+    color: #736F4E;
 }
 
 ul {
