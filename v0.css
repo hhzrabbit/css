@@ -1,4 +1,7 @@
-/* https://coolors.co/4c061d-d17a22-b4c292-736f4e-3b3923 */
+/* color scheme:
+
+https://coolors.co/4c061d-d17a22-b4c292-736f4e-3b3923
+*/
 .extreme {
     color: #3B3923;
 }
@@ -18,10 +21,12 @@
     margin-right: 30%;
 }
 
-
-
 #head1 {
     font-size: 40px;
+}
+
+#tehlulz {
+    font-style: italic;
 }
 
 body {
@@ -53,7 +58,7 @@ li {
 
 a {
     text-decoration: none;
-    color: darkslateblue;
+    color: #4C061D;
 }
 
 a:hover {

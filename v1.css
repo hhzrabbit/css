@@ -1,27 +1,31 @@
-body {
-    text-align: left;
+.extreme {
+    color: #2B303A;
+    font-style: italic;
 }
 
-h1 {
-    font-size: 3em;
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#head1 {
     font-weight: bold;
-    color: deeppink;
+    font-size: 30px;
 }
 
-h2 {
-    font-size: 2em;
-    color: lightcoral;
+#tehlulz:hover {
+    font-variant: small-caps;
 }
 
-h3 {
-    font-size: 1.5em;
-    color: lightcoral;
-    margin-top: 0px;
-    margin-bottom: 0px;
+h1, h2, h3 {
+    font-style: italic;
 }
 
-p {
-    margin-right: 70%;
+body {
+    text-align: center;
+    color: #3E424B;
+    background-color: #BAC1B8;
 }
 
 ul {
@@ -37,12 +41,12 @@ li {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: black;
-    background-color: pink;
-    padding: 10px 10px;
+    color: #51555D;
+    background-color: #58A4B0;
+    padding: 15px 15px;
 }
 
 a:hover {
-    color: deeppink;
-    background-color: black;
+    background-color: #2B303A;
+    color: #B3D5DB;
 }
